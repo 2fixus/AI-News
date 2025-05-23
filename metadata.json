@@ -1,0 +1,6 @@
+
+{
+  "name": "AI News Feed (Full-Stack)",
+  "description": "A news aggregator using a Node.js backend to fetch real news from RSS feeds and an AI to analyze content for political bias and truthfulness. Frontend by React.",
+  "requestFramePermissions": []
+}
